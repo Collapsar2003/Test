@@ -4,14 +4,15 @@
     + ÊÔÒ»ÊÔËõ½ø
 + ÊÔÒ»ÊÔ³¬Á´½Ó [bilibili](https://www.bilibili.com/)
 + ÊÔÒ»ÊÔ´úÂë
-+ ¡¢¡¢¡¢c
-            #include <stdio.h>
++ '''c
+#include <stdio.h>
 
-            int main()
-            {
-                printf("1\n");
-                printf("2\n");
-                printf("3\n");
-                printf("4\n");
-                return 0;
-  ¡¢¡¢¡¢     }
+int main()
+{
+    printf("1\n");
+    printf("2\n");
+    printf("3\n");
+    printf("4\n");
+    return 0;
+}
+'''
