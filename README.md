@@ -4,7 +4,7 @@
     + 试一试缩进
 + 试一试超链接 [bilibili](https://www.bilibili.com/)
 + 试一试代码
-+ '''c
+```c
 #include <stdio.h>
 
 int main()
@@ -15,4 +15,4 @@ int main()
     printf("4\n");
     return 0;
 }
-'''
+```
