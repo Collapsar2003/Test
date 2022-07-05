@@ -7,4 +7,5 @@ int main()
     printf("3\n");
     printf("4\n");
     return 0;
+    //test 6
 }
